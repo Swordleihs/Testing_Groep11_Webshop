@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Testing_Groep11_Webshop">
+    <output-path>$PROJECT_DIR$/out/artifacts/Testing_Groep11_Webshop</output-path>
+    <root id="archive" name="Testing_Groep11_Webshop.war">
+      <element id="artifact" artifact-name="Web3_Labo1_JSP-NoScriptlets:war exploded" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

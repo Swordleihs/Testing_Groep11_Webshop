@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Web3_Labo1_JSP-NoScriptlets:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Web3_Labo1_JSP_NoScriptlets_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Web3_Labo1_JSP-NoScriptlets" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="jstl-1.2" />
+          <element id="library" level="project" name="postgresql-42.2.5" />
+          <element id="library" level="project" name="junit4" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Web3_Labo1_JSP-NoScriptlets/web/Web" />
+    </root>
+  </artifact>
+</component>
